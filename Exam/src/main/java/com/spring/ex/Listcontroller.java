@@ -5,4 +5,6 @@ public class Listcontroller {
 	// masterListController 수정
 	// masterListController 조회
 	// masterListController 삭제
+	// masterListController 한줄 더 추가
+	// masterListController 한줄 더 수정
 }

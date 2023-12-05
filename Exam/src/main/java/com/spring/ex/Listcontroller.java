@@ -7,4 +7,7 @@ public class Listcontroller {
 	// masterListController 삭제
 	// masterListController 한줄 더 추가
 	// masterListController 한줄 더 수정
+	/////////////////////////////////
+	// kim0101 branch에서 추가함 //
+	// kim0101 branch에서 추가함 //
 }
